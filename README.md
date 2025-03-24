@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Leandro Alves 👋
 
-<!--
-**leandroalves-dev/leandroalves-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Front-End com mais de 11 anos de experiência. Apaixonado por tecnologia, sempre buscando me aperfeiçoar em novas ferramentas e técnicas, como React e TypeScript.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que uso:
+- **JavaScript** | **React** | **TypeScript** | **CSS** | **HTML**
+- **Next.js** | **Node.js** 
+- **MongoDB** | **Firebase** | **Prisma**
+- **Webpack** | **Vite**
+- Ferramentas e Gerenciamento de Pacotes: **Git**, **Npm**, **Yarn**, **Grunt/Gulp**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projetos em destaque:
+- EM DESENVOLVIMENTO
+
+### 📫 Como me encontrar:
+- **Website**: EM DESENVOLVIMENTO
+
+### 💬 Contate-me:
+Se você quiser discutir sobre trabalho ou ideias, me envie um e-mail em [leandroeffgen8@gmail.com](mailto:leandroeffgen8@gmail.com).
+
+### 🔧 Ferramentas que uso no meu dia a dia:
+- **Editor**: VSCode
+- **Controle de versão**: Git, GitHub
