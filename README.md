@@ -10,7 +10,11 @@ Sou um desenvolvedor Front-End com mais de 11 anos de experiência. Apaixonado p
 - Ferramentas e Gerenciamento de Pacotes: **Git**, **Npm**, **Yarn**, **Grunt/Gulp**
 
 ### 📚 Projetos em destaque:
-- EM DESENVOLVIMENTO
+-  Ingresso de Cinema
+-  DevCusto
+-  Temperatura
+-  Urna Eletronica
+-  Estacionamento de Carros
 
 ### 📫 Como me encontrar:
 - **Website**: EM DESENVOLVIMENTO
