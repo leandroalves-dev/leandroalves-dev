@@ -1,6 +1,8 @@
 # Olá, eu sou o Leandro Alves 👋
 
-Sou um desenvolvedor Front-End com mais de 11 anos de experiência. Apaixonado por tecnologia, sempre buscando me aperfeiçoar em novas ferramentas e técnicas, como React e TypeScript.
+Sou um profissional de tecnologia com mais de 15 anos de experiência, atuando principalmente como desenvolvedor frontend. Ao longo da minha trajetória, trabalhei em empresas de diversos setores, incluindo consultoria no ramo de relações com investidores e no setor de ecommerce, utilizando tecnologias como JavaScript.
+
+Tenho me dedicado ao aprimoramento contínuo de minhas habilidades, com foco em frameworks e bibliotecas como React, TypeScript e Next.js, sempre buscando aplicar as últimas tendências e melhores práticas para criar interfaces de usuário eficientes e visualmente atraentes.
 
 ### 🚀 Tecnologias que uso:
 - **JavaScript** | **React** | **TypeScript** | **CSS** | **HTML**
