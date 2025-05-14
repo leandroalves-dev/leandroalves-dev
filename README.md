@@ -12,6 +12,7 @@ Tenho me dedicado ao aprimoramento contínuo de minhas habilidades, com foco em 
 - Ferramentas e Gerenciamento de Pacotes: **Git**, **Npm**, **Yarn**, **Grunt/Gulp**
 
 ### 📚 Projetos em destaque:
+-  Condominio
 -  Ingresso de Cinema
 -  DevCusto
 -  Temperatura
