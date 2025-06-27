@@ -11,14 +11,6 @@ Tenho me dedicado constantemente ao aprimoramento técnico, com ênfase em frame
 - **Webpack** | **Vite**
 - Ferramentas e Gerenciamento de Pacotes: **Git**, **Npm**, **Yarn**, **Grunt/Gulp**
 
-### 📚 Projetos em destaque:
--  Condominio
--  Ingresso de Cinema
--  DevCusto
--  Temperatura
--  Urna Eletronica
--  Estacionamento de Carros
-
 ### 📫 Como me encontrar:
 - **Website**: EM DESENVOLVIMENTO
 
