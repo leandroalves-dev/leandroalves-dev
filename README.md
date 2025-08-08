@@ -5,7 +5,7 @@ Sou um profissional de tecnologia com mais de 15 anos de experiência, especiali
 Tenho me dedicado constantemente ao aprimoramento técnico, com ênfase em frameworks e bibliotecas modernas como React, TypeScript e Next.js. Busco aplicar as melhores práticas e tendências do mercado para criar interfaces intuitivas, responsivas e visualmente atrativas, que proporcionem uma excelente experiência ao usuário.
 
 ### 🚀 Tecnologias que uso:
-- **JavaScript** | **React** | **TypeScript** | **HTML** | **CSS** | **Tailwind CSS** | **Bootstrap** | **Sass** | **Less**  
+- **JavaScript** | **React** | **TypeScript** | **HTML** | **CSS** | **Tailwind CSS** | **Bootstrap** | Shadcn **Sass** | **Less**  
 - **Next.js** | **Node.js** | **REST APIs**
 - **MongoDB** | **Firebase** | **Prisma**
 - **Webpack** | **Vite**
