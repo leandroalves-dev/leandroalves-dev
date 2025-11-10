@@ -37,12 +37,6 @@ O projeto permite registrar um plano, agendamento de consultas e controle de pro
 
 **Deploy:** [https://clinicpro-nine.vercel.app/](https://clinicpro-nine.vercel.app/)
 
-### 📫 Como me encontrar:
-- **Website**: EM DESENVOLVIMENTO
-
-### 💬 Contate-me:
-Se você quiser discutir sobre trabalho ou ideias, me envie um e-mail em [leandroeffgen8@gmail.com](mailto:leandroeffgen8@gmail.com).
-
 ### 🔧 Ferramentas que uso no meu dia a dia:
 - **Editor**: VSCode
-- **Controle de versão**: Git, GitHub
+- **Controle de versão**: Git, GitHub e IA para acelerar tarefas de desenvolvimento, geração e refatoração de código.
