@@ -40,3 +40,4 @@ O projeto permite registrar um plano, agendamento de consultas e controle de pro
 ### 🔧 Ferramentas que uso no meu dia a dia:
 - **Editor**: VSCode
 - **Controle de versão**: Git, GitHub e IA para acelerar tarefas de desenvolvimento, geração e refatoração de código.
+- **Produtividade**: IA para geração, refatoração de código
