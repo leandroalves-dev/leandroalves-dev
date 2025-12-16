@@ -1,6 +1,6 @@
 # Olá, eu sou o Leandro Alves 👋
 
-Sou um desenvolvedor front-end com mais de 11 anos de experiência, movido pela curiosidade e pela vontade de criar experiências digitais que realmente façam diferença.
+Sou um desenvolvedor front-end com mais de 12 anos de experiência, movido pela curiosidade e pela vontade de criar experiências digitais que realmente façam diferença.
 Ao longo da minha trajetória, atuei em projetos de diferentes segmentos, de consultorias a e-commerces, sempre com foco em performance, usabilidade e uma experiência do usuário fluida e agradável.
 
 Tenho domínio em JavaScript, React e TypeScript, e venho me aprofundando em Next.js e IA, explorando as melhores práticas e tendências do mercado para construir interfaces modernas, escaláveis e visualmente envolventes.
