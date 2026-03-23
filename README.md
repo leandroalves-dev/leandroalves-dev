@@ -35,6 +35,8 @@ Faça login pelo Gmail.
 Escolha a acomodação e siga os passos para reservar.
 💳 Cartão de teste: 4242 4242 4242 4242
 
+**Deploy:** [https://hospedagem-blush.vercel.app/](https://hospedagem-blush.vercel.app/)
+
 #### 🏢 Sistema de Condomínio
 **Descrição:** 
 Aplicação web desenvolvida em **Next.js**, **React**, **TypeScript**, **TailwindCSS** e **Prisma**, com foco em **comunicação entre moradores e administração do condomínio**.  
