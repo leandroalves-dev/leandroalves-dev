@@ -21,18 +21,22 @@ Acredito que um bom código vai além da técnica, ele traduz ideias em experiê
 Aplicação web desenvolvida em Next.js, React, TypeScript, TailwindCSS e Prisma, focada em reservas de acomodações. O sistema permite criação e gerenciamento de reservas, calendário de disponibilidade, pagamentos via Stripe e controle de usuários, oferecendo uma experiência prática e segura para hóspedes e anfitriões.
 
 🚀 Como usar o sistema de hospedagem
-🔑 Login com Gmail
+1. **🔑 Login com Gmail**  
 Clique em “Entrar” e use sua conta Gmail.
-🏠 Se tornar anfitrião (host)
-Preencha o formulário com suas informações.
-Acesse a dashboard e conclua o pagamento via Stripe.
+
+2. **🏠 Se tornar anfitrião (host)**  
+Preencha o formulário com suas informações.  
+Acesse a dashboard e conclua o pagamento via Stripe.  
 💳 Cartão de teste: 4242 4242 4242 4242
-🛏️ Adicionar acomodação
-Volte para a dashboard — novos componentes estarão disponíveis.
-Cadastre sua acomodação e ela aparecerá automaticamente no site.
-📅 Reservar uma acomodação como usuário
-Faça login pelo Gmail.
-Escolha a acomodação e siga os passos para reservar.
+
+3. **🛏️ Adicionar acomodação**  
+Volte para a dashboard — novos componentes estarão disponíveis.  
+Cadastre sua acomodação.  
+Sua acomodação aparecerá automaticamente no site.
+
+4. **📅 Reservar uma acomodação como usuário**  
+Faça login pelo Gmail.  
+Escolha a acomodação e siga os passos para reservar.  
 💳 Cartão de teste: 4242 4242 4242 4242
 
 **Deploy:** [https://hospedagem-blush.vercel.app/](https://hospedagem-blush.vercel.app/)
