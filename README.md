@@ -16,6 +16,25 @@ Acredito que um bom código vai além da técnica, ele traduz ideias em experiê
 
 ### 🧩 Projetos em Destaque
 
+#### 🏨 Sistema de Hospedagem
+**Descrição**
+Aplicação web desenvolvida em Next.js, React, TypeScript, TailwindCSS e Prisma, focada em reservas de acomodações. O sistema permite criação e gerenciamento de reservas, calendário de disponibilidade, pagamentos via Stripe e controle de usuários, oferecendo uma experiência prática e segura para hóspedes e anfitriões.
+
+🚀 Como usar o sistema de hospedagem
+🔑 Login com Gmail
+Clique em “Entrar” e use sua conta Gmail.
+🏠 Se tornar anfitrião (host)
+Preencha o formulário com suas informações.
+Acesse a dashboard e conclua o pagamento via Stripe.
+💳 Cartão de teste: 4242 4242 4242 4242
+🛏️ Adicionar acomodação
+Volte para a dashboard — novos componentes estarão disponíveis.
+Cadastre sua acomodação e ela aparecerá automaticamente no site.
+📅 Reservar uma acomodação como usuário
+Faça login pelo Gmail.
+Escolha a acomodação e siga os passos para reservar.
+💳 Cartão de teste: 4242 4242 4242 4242
+
 #### 🏢 Sistema de Condomínio
 **Descrição:** 
 Aplicação web desenvolvida em **Next.js**, **React**, **TypeScript**, **TailwindCSS** e **Prisma**, com foco em **comunicação entre moradores e administração do condomínio**.  
