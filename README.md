@@ -16,6 +16,22 @@ Acredito que um bom código vai além da técnica, ele traduz ideias em experiê
 
 ### 🧩 Projetos em Destaque
 
+BarberPro é uma plataforma SaaS completa para gestão de barbearias, desenvolvida com foco em organização, automação e experiência do usuário.
+
+A aplicação permite que barbearias gerenciem seus atendimentos enquanto clientes podem realizar agendamentos online de forma simples, rápida e sem necessidade de login.
+
+## Acesso ao sistema
+
+https://barber-pro-phi.vercel.app/
+
+Login: cliente@barberpro.test
+
+Senha: teste123
+
+## Acesso a página de agendamentos
+
+https://barber-pro-phi.vercel.app/barberpro-flagship
+
 #### 🏨 Sistema de Hospedagem
 **Descrição**
 Aplicação web desenvolvida em Next.js, React, TypeScript, TailwindCSS e Prisma, focada em reservas de acomodações. O sistema permite criação e gerenciamento de reservas, calendário de disponibilidade, pagamentos via Stripe e controle de usuários, oferecendo uma experiência prática e segura para hóspedes e anfitriões.
@@ -54,15 +70,3 @@ Login: `admin@teste.com.br` / Senha: `admin123`
 Login: `usuario@teste.com.br` / Senha: `usuario123`
 
 **Deploy:** [https://condominio-park-splendor.vercel.app/](https://condominio-park-splendor.vercel.app/)
-
-#### 🦷 ClinicPro
-**Descrição:**
-Sistema SaaS para clínicas, desenvolvido com **Next.js**, **React**, **TypeScript** e **TailwindCSS**, com integração ao **Prisma** para gerenciamento de banco de dados e o Stripe para gerenciamento de pagamentos.  
-O projeto permite registrar um plano, agendamento de consultas e controle de profissionais, tudo dentro de uma interface moderna e responsiva.  
-
-**Deploy:** [https://clinicpro-nine.vercel.app/](https://clinicpro-nine.vercel.app/)
-
-### 🔧 Ferramentas que uso no meu dia a dia:
-- **Editor**: VSCode
-- **Controle de versão**: Git, GitHub e IA para acelerar tarefas de desenvolvimento, geração e refatoração de código.
-- **Produtividade**: IA para geração, refatoração de código
