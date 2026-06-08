@@ -1,12 +1,12 @@
 # Olá, eu sou o Leandro Alves 👋
 
-Sou um desenvolvedor front-end com mais de 12 anos de experiência, movido pela curiosidade e pela vontade de criar experiências digitais que realmente façam diferença.
-Ao longo da minha trajetória, atuei em projetos de diferentes segmentos, de consultorias a e-commerces, sempre com foco em performance, usabilidade e uma experiência do usuário fluida e agradável.
+Sou desenvolvedor Front-end com mais de 10 anos de experiência em projetos web, atuando principalmente com JavaScript em e-commerce, sistemas corporativos e aplicações de alto tráfego.
 
-Tenho domínio em JavaScript, React e TypeScript, e venho me aprofundando em Next.js e IA, explorando as melhores práticas e tendências do mercado para construir interfaces modernas, escaláveis e visualmente envolventes.
+Ao longo da minha trajetória, participei do desenvolvimento de interfaces, integrações com APIs e soluções voltadas para performance, usabilidade e experiência do usuário. Atualmente, venho expandindo minha atuação no ecossistema React, Next.js e TypeScript, desenvolvendo projetos fullstack e explorando arquiteturas modernas para aplicações web.
 
-Acredito que um bom código vai além da técnica, ele traduz ideias em experiências simples, funcionais e encantadoras.
+Também tenho dedicado parte dos meus estudos à IA aplicada ao desenvolvimento, explorando engenharia de prompts, organização de contexto, estruturas baseadas em skills e ferramentas como ChatGPT, Codex e Claude Code para otimizar fluxos de trabalho, produtividade e qualidade de código.
 
+Acredito no aprendizado contínuo e gosto de transformar novas tecnologias em soluções práticas, organizadas e escaláveis.
 ### 🚀 Tecnologias que uso:
 - **JavaScript** | **React** | **TypeScript** | **HTML** | **CSS** | **Tailwind CSS** | **Bootstrap** | **Shadcn** | **Sass** | **Less**  
 - **Next.js** | **Node.js** | **REST APIs**
