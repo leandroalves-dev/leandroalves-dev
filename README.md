@@ -1,10 +1,14 @@
 # Olá, eu sou o Leandro Alves 👋
 
-Sou desenvolvedor Front-end com mais de 10 anos de experiência em projetos web, atuando principalmente com JavaScript em e-commerce, sistemas corporativos e aplicações de alto tráfego.
-
-Ao longo da minha trajetória, participei do desenvolvimento de interfaces, integrações com APIs e soluções voltadas para performance, usabilidade e experiência do usuário. Atualmente, venho expandindo minha atuação no ecossistema React, Next.js e TypeScript, desenvolvendo projetos fullstack e explorando arquiteturas modernas para aplicações web.
-
-Também tenho dedicado parte dos meus estudos à IA aplicada ao desenvolvimento, explorando engenharia de prompts, organização de contexto, estruturas baseadas em skills e ferramentas como ChatGPT, Codex e Claude Code para otimizar fluxos de trabalho, produtividade e qualidade de código.
+Desenvolvedor Front-end com mais de 10 anos de experiência em projetos web, atuando principalmente com JavaScript em e-commerces, sistemas corporativos e aplicações de alto tráfego.
+ 
+Ao longo da minha trajetória, participei da construção e evolução de produtos focados em performance, usabilidade e experiência do usuário, colaborando com equipes multidisciplinares para entregar soluções alinhadas aos objetivos do negócio.
+ 
+Atuo com React, Next.js e TypeScript no desenvolvimento de aplicações modernas, contribuindo para a criação de interfaces escaláveis, integrações com APIs e arquiteturas que facilitam manutenção, evolução e crescimento dos projetos.
+ 
+Também utilizo Inteligência Artificial como apoio ao desenvolvimento, explorando engenharia de prompts, organização de contexto e ferramentas assistidas por IA para otimizar fluxos de trabalho, acelerar entregas e manter qualidade técnica.
+ 
+Tenho perfil voltado para aprendizado contínuo, resolução de problemas e construção de soluções que gerem valor tanto para os usuários quanto para o negócio.
 
 Acredito no aprendizado contínuo e gosto de transformar novas tecnologias em soluções práticas, organizadas e escaláveis.
 ### 🚀 Tecnologias que uso:
