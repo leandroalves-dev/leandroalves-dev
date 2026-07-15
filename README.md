@@ -20,7 +20,7 @@ Acredito no aprendizado contínuo e gosto de transformar novas tecnologias em so
 
 ### 🧩 Projetos em Destaque
 
-## BarberPro
+### BarberPro
 **BarberPro** é uma plataforma SaaS completa para gestão de barbearias, desenvolvida com foco em organização, automação e experiência do usuário.
 A aplicação permite que barbearias gerenciem seus atendimentos enquanto clientes podem realizar agendamentos online de forma simples, rápida e sem necessidade de login.
 
