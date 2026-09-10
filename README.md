@@ -11,11 +11,10 @@ Também utilizo Inteligência Artificial aplicada ao desenvolvimento como parte 
 Gosto de transformar problemas em soluções simples e bem estruturadas, combinando minha experiência em Front-end com tecnologias atuais e aprendizado contínuo.
 
 ### 🚀 Tecnologias que uso:
-- **JavaScript** | **React** | **TypeScript** | **HTML** | **CSS** | **Tailwind CSS** | **Bootstrap** | **Shadcn** | **Sass** | **Less**  
-- **Next.js** | **Node.js** | **REST APIs**
-- **MongoDB** | **Firebase** | **Prisma**
-- **Webpack** | **Vite**
-- **Git**, **Npm**, **Yarn**, **Grunt/Gulp**
+- Front-end: JavaScript | TypeScript | React | Next.js | HTML | CSS | Tailwind CSS | Shadcn UI | Sass | Less | Bootstrap
+- Back-end & Dados: Node.js | Prisma | PostgreSQL | MongoDB | Firebase | REST APIs
+- Ferramentas: Git | GitHub | Postman | Webpack | Vite | NPM | Yarn
+- IA aplicada ao desenvolvimento: ChatGPT | Codex | Claude Code | Engenharia de Prompts | Context Engineering
 
 ### 🧩 Projetos em Destaque
 
