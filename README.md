@@ -1,16 +1,15 @@
 # Olá, eu sou o Leandro Alves 👋
 
-Desenvolvedor Front-end com mais de 10 anos de experiência em projetos web, atuando principalmente com JavaScript em e-commerces, sistemas corporativos e aplicações de alto tráfego.
- 
-Ao longo da minha trajetória, participei da construção e evolução de produtos focados em performance, usabilidade e experiência do usuário, colaborando com equipes multidisciplinares para entregar soluções alinhadas aos objetivos do negócio.
- 
-Atuo com React, Next.js e TypeScript no desenvolvimento de aplicações modernas, contribuindo para a criação de interfaces escaláveis, integrações com APIs e arquiteturas que facilitam manutenção, evolução e crescimento dos projetos.
- 
-Também utilizo Inteligência Artificial como apoio ao desenvolvimento, explorando engenharia de prompts, organização de contexto e ferramentas assistidas por IA para otimizar fluxos de trabalho, acelerar entregas e manter qualidade técnica.
- 
-Tenho perfil voltado para aprendizado contínuo, resolução de problemas e construção de soluções que gerem valor tanto para os usuários quanto para o negócio.
+Sou Desenvolvedor Front-end com mais de 10 anos de experiência em desenvolvimento web, com trajetória construída principalmente em JavaScript, e-commerces, sistemas corporativos e aplicações de alto tráfego.
 
-Acredito no aprendizado contínuo e gosto de transformar novas tecnologias em soluções práticas, organizadas e escaláveis.
+Ao longo da minha carreira, trabalhei na construção e evolução de interfaces e produtos digitais, com foco em performance, usabilidade, responsividade e experiência do usuário, além de integração com APIs REST e colaboração em equipes multidisciplinares.
+
+Atualmente, desenvolvo projetos com React, TypeScript e Next.js, explorando também Node.js, Prisma, PostgreSQL e Tailwind CSS na construção de aplicações e produtos digitais completos.
+
+Também utilizo Inteligência Artificial aplicada ao desenvolvimento como parte do meu fluxo de trabalho, com ferramentas como ChatGPT, Codex e Claude Code para apoio em desenvolvimento, análise de código, arquitetura e refatoração. Tenho aprofundado meus conhecimentos em Engenharia de Prompts, Context Engineering e desenvolvimento assistido por IA.
+
+Gosto de transformar problemas em soluções simples e bem estruturadas, combinando minha experiência em Front-end com tecnologias atuais e aprendizado contínuo.
+
 ### 🚀 Tecnologias que uso:
 - **JavaScript** | **React** | **TypeScript** | **HTML** | **CSS** | **Tailwind CSS** | **Bootstrap** | **Shadcn** | **Sass** | **Less**  
 - **Next.js** | **Node.js** | **REST APIs**
