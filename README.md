@@ -4,7 +4,7 @@ Sou Desenvolvedor Front-end com mais de 10 anos de experiência em desenvolvimen
 
 Ao longo da minha carreira, trabalhei na construção e evolução de interfaces e produtos digitais, com foco em performance, usabilidade, responsividade e experiência do usuário, além de integração com APIs REST e colaboração em equipes multidisciplinares.
 
-Atualmente, desenvolvo projetos com React, TypeScript e Next.js, explorando também Node.js, Prisma, PostgreSQL e Tailwind CSS na construção de aplicações e produtos digitais completos.
+Atualmente, desenvolvo projetos com React, TypeScript e Next.js, utilizando também Context API, React Hook Form e Zod para gerenciamento de estado, formulários e validação de dados. Exploro ainda Node.js, Prisma, PostgreSQL e Tailwind CSS na construção de aplicações e produtos digitais completos.
 
 Também utilizo Inteligência Artificial aplicada ao desenvolvimento como parte do meu fluxo de trabalho, com ferramentas como ChatGPT, Codex e Claude Code para apoio em desenvolvimento, análise de código, arquitetura e refatoração. Tenho aprofundado meus conhecimentos em Engenharia de Prompts, Context Engineering e desenvolvimento assistido por IA.
 
